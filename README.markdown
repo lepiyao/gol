@@ -8,4 +8,6 @@ Test Build Trigger
 
 Test Build Trigger
 
-Test di Branch "Test1"
+Test Pertama di Branch "Test1"
+
+Test Kedua di Branch "Test1"
